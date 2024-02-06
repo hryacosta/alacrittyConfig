@@ -10,7 +10,7 @@ normal = { family = "JetBrainsMonoNL Nerd Font",  style = "Regular" }
 opacity = 0.75
 blur = true
 option_as_alt = "OnlyLeft"
-decorations = "Buttonless"
+# decorations = "Buttonless"
 dynamic_padding = true 
 dynamic_title = false 
 # resize_increments = true
